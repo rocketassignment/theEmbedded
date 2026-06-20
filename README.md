@@ -331,6 +331,9 @@ Master → [Advanced Hardware](#advanced-hardware) → [Security](#embedded-secu
 9. **"Bootloader design"** → [Bootloader Development](./System_Integration/Bootloader_Development.md)
 10. **"Debugging embedded systems"** → [JTAG/SWD Debugging](./Debugging/JTAG_SWD_Debugging.md)
 
+> 💡 **Want these as flashcards with model answers you can upvote, search, and sort by what's most asked?**
+> 👉 **[Open the Interview Question Bank on EmbeddedInterviewLab →](https://embeddedinterviewlab.com/questions?utm_source=github&utm_medium=referral&utm_campaign=most_asked)**
+
 ## 🎯 **Success Tips for Embedded Software Interviews**
 
 #### **Technical Preparation**
@@ -363,10 +366,11 @@ Master → [Advanced Hardware](#advanced-hardware) → [Security](#embedded-secu
 - **[General Embedded Interview](./Interview/Concept/embedded_interview_questions.md)** - Comprehensive question bank
 
 #### **Protocol-Specific Questions**
-- **[UART Interview Questions](./Interview/Concept/UART_interview_questions.md)** - UART-specific Q&A
-- **[SPI Interview Questions](./Interview/Concept/SPI_interview_questions.md)** - SPI modes, timing, troubleshooting
-- **[I2C Interview Questions](./Interview/Concept/I2C_interview_questions.md)** - Addressing, arbitration, clock stretching
-- **[CAN Interview Questions](./Interview/Concept/CAN_interview_questions.md)** - CAN frames, error handling, arbitration
+*📌 Each links to its ranked, interactive question bank on the website.*
+- **[UART Interview Questions](./Interview/Concept/UART_interview_questions.md)** - UART-specific Q&A · [practice online ↗](https://embeddedinterviewlab.com/questions/topic/uart?utm_source=github&utm_medium=referral&utm_campaign=protocol_qa&utm_content=uart)
+- **[SPI Interview Questions](./Interview/Concept/SPI_interview_questions.md)** - SPI modes, timing, troubleshooting · [practice online ↗](https://embeddedinterviewlab.com/questions/topic/spi?utm_source=github&utm_medium=referral&utm_campaign=protocol_qa&utm_content=spi)
+- **[I2C Interview Questions](./Interview/Concept/I2C_interview_questions.md)** - Addressing, arbitration, clock stretching · [practice online ↗](https://embeddedinterviewlab.com/questions/topic/i2c?utm_source=github&utm_medium=referral&utm_campaign=protocol_qa&utm_content=i2c)
+- **[CAN Interview Questions](./Interview/Concept/CAN_interview_questions.md)** - CAN frames, error handling, arbitration · [practice online ↗](https://embeddedinterviewlab.com/questions/topic/can?utm_source=github&utm_medium=referral&utm_campaign=protocol_qa&utm_content=can)
 
 ### **LeetCode for Embedded Developers**
 *Curated coding problems focusing on C programming without advanced data structures*
