@@ -1,3 +1,11 @@
+> ## 🚀 Practice & deep-dive on EmbeddedInterviewLab
+>
+> Get these build / integration concepts as ranked interview questions with model answers, plus interactive deep-dive guides.
+>
+> 👉 **[Browse build-systems questions →](https://embeddedinterviewlab.com/questions/domain/build-systems?utm_source=github&utm_medium=referral&utm_campaign=kb_cta&utm_content=system_integration)** &nbsp;·&nbsp; **[Read the topic guides →](https://embeddedinterviewlab.com/topics?utm_source=github&utm_medium=referral&utm_campaign=kb_cta&utm_content=system_integration)**
+
+---
+
 # Version Control Workflows
 
 ## Quick Reference: Key Facts
