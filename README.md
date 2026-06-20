@@ -13,11 +13,11 @@
 
 ### 🌐 **Interactive Website — [EmbeddedInterviewLab](https://embeddedinterviewlab.com/)**
 
-*55+ knowledge articles • Concept Q&A • Coding practice with AI feedback*
+*69 in-depth topic guides • 275+ community-ranked interview questions • 75 coding problems with AI feedback*
 
-| [**📚 Knowledge Topics**](https://embeddedinterviewlab.com/topics/) | [**🎯 Interview Prep**](https://embeddedinterviewlab.com/interview/) | [**💻 Coding Practice**](https://embeddedinterviewlab.com/coding/) |
+| [**📚 Knowledge Topics**](https://embeddedinterviewlab.com/topics/) | [**🎯 Question Bank**](https://embeddedinterviewlab.com/questions?utm_source=github&utm_medium=referral&utm_campaign=readme_hero) | [**💻 Coding Practice**](https://embeddedinterviewlab.com/coding/) |
 |:---:|:---:|:---:|
-| C, MCU, peripherals, RTOS, networking, wireless | Concept Q&A, system design | C/C++ problems with AI feedback |
+| C, MCU, peripherals, RTOS, networking, wireless | 275+ ranked questions with model answers | C/C++ problems with AI feedback |
 
 **[👉 Start learning at embeddedinterviewlab.com](https://embeddedinterviewlab.com/)**
 
